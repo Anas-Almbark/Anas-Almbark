@@ -11,12 +11,6 @@ I'm currently learning Laravel and improving my problem-solving skills.
 💞️ I’m looking to collaborate on ...  
 Beginner-friendly open-source projects and communities that encourage learning.  
 
-📫 How to reach me ...  
-Feel free to reach out to me through GitHub or my social media profiles.  
-- [Facebook](https://www.facebook.com/anas.almbark.5/)  
-- [Telegram](https://t.me/Anas_Almbark00)  
-- WhatsApp: +44 7984 006484
-
 ⚡ Fun fact: ...  
 I enjoy turning ideas into reality through code and exploring innovative solutions to everyday problems.  
 
