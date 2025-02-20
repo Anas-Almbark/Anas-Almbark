@@ -1,3 +1,5 @@
+# ✨ About Me:
+
 👋 Hi, I’m @Anas-Almbark
 I'm a dedicated developer with a strong focus on building scalable and efficient web applications. I enjoy tackling complex challenges, optimizing performance, and crafting seamless user experiences.
 
@@ -10,6 +12,7 @@ Innovative projects that require problem-solving, performance optimization, and 
 ## 🌐 Socials:  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anas.almbark.5/)  
 [![Telegram](https://img.shields.io/badge/Telegram-%2300A9E0.svg?logo=telegram&logoColor=white)](https://t.me/Anas_Almbark00)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-almbark-57b77b225/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2394CC41.svg?logo=whatsapp&logoColor=white)](https://wa.me/447984006484)  
 
 # 💻 Tech Stack:  
